@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 145.8 250.5" enable-background="new 0 0 145.8 250.5" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-69.3" y="-382.5" width="612" height="792"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<rect x="-69.3" y="-382.5" clip-path="url(#SVGID_2_)" fill="#FFFFFF" width="612" height="792"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="0" y="-331.2" width="473.4" height="675.7"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -318.214)"><tspan x="0" y="0" font-family="'HelveticaNeue-BoldItalic'" font-size="9">Example 9: </tspan><tspan x="49.5" y="0" font-family="'HelveticaNeue-BoldItalic'" font-size="9">r</tspan><tspan x="52.9" y="0" font-family="'HelveticaNeue-BoldItalic'" font-size="9">esponsively designed ad c</tspan><tspan x="165.4" y="0" font-family="'HelveticaNeue-BoldItalic'" font-size="9">r</tspan><tspan x="168.7" y="0" font-family="'HelveticaNeue-BoldItalic'" font-size="9">eative with size ranges in layouts</tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 313.2269 -318.214)" font-family="'HelveticaNeue-BoldItalic'" font-size="9"> </text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 236.682 -161.2402)" font-family="'HelveticaNeue-Light'" font-size="9"> </text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -138.0452)" font-family="'HelveticaNeue-Light'" font-size="9">Example 9 illustrates the speciﬁcation for a </text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 169.5419 -138.0452)"><tspan x="0" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">r</tspan><tspan x="2.7" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">esponsively designed</tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 254.889 -138.0452)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9"> ad c</tspan><tspan x="19.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="22.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eative that is designed to </tspan><tspan x="121.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="123.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ender p</tspan><tspan x="153.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="156.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">operly within </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -123.8208)" font-family="'HelveticaNeue-Light'" font-size="9">multiple placement sizes.  </text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -100.5991)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">Note that the</tspan><tspan x="50.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="53.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e is one b</tspan><tspan x="91.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="93.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eakpoint, one ﬂuid-sized layout, and one ﬁxed-size</tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 291.744 -100.5991)" font-family="'HelveticaNeue-Light'" font-size="9"> layout in Example 9. </text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -77.3774)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">At ﬁrst glance, this Example 9 may look similar to the p</tspan><tspan x="211.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="214" y="0" font-family="'HelveticaNeue-Light'" font-size="9">evious Example 8, and it is; the di</tspan><tspan x="343.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">f</tspan><tspan x="345.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">fe</tspan><tspan x="352.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="355.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ences between Example 8 </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -63.1557)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">and Example 9 a</tspan><tspan x="65.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="67.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e subtle, but important to understand. </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -39.9341)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">Since this ad c</tspan><tspan x="57" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="59.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eative in Example 8 uses a ﬂuid-width in Layout #1, this ad c</tspan><tspan x="293.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="295.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eative is mo</tspan><tspan x="341.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="344.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e ﬂexible (pun intended) and </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -25.7124)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">could the</tspan><tspan x="36" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="38.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">efo</tspan><tspan x="50.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="53.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e be displayed not just in th</tspan><tspan x="159.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="162.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ee placement sizes (300x50, 320x50, and 300x250) but instead in any of the </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 -11.4907)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">following 22 (theo</tspan><tspan x="68.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="70.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">etical) placement sizes:  </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 268.2027)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The ﬂuid-width that is applied in Layout #1 makes this ad c</tspan><tspan x="227.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="230" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eative compatible with a range of placement sizes. </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 2.682 291.4243)" font-family="'HelveticaNeue-Light'" font-size="9">•</text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 9.432 291.4243)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ASPEC is designed to accommodate the speciﬁcation of </tspan><tspan x="221.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="224.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">esponsively designed ad c</tspan><tspan x="326.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="329.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eatives that use ﬂuid layouts </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 9.432 305.646)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">between each b</tspan><tspan x="62.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="65" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eakpoint. </tspan></text>
+	</g>
+	<line clip-path="url(#SVGID_4_)" fill="none" stroke="#919191" stroke-width="0.5" x1="2.7" y1="-328.2" x2="470.7" y2="-328.2"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_5_" x="2.7" y="-303.8" width="234" height="142.5"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	<rect x="2.7" y="-250.4" clip-path="url(#SVGID_6_)" fill="#FCF8C8" width="233.7" height="27.3"/>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 6.7899 -230.0513)" fill="#231F20" font-family="'HelveticaNeue-Light'" font-size="21.3807">[300-320]x50 </text>
+	</g>
+	<g clip-path="url(#SVGID_6_)">
+		
+			<text transform="matrix(1 0 0 1 136.3358 -230.0513)" fill="#939598" font-family="'HelveticaNeue-LightItalic'" font-size="21.3807">/</text>
+	</g>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 143.4559 -230.0513)" fill="#231F20" font-family="'HelveticaNeue-Light'" font-size="21.3807"> 300x250</text>
+	</g>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 43.5379 -197.6832)"><tspan x="0" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">L</tspan><tspan x="5.3" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">A</tspan><tspan x="10.7" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">YOUT #1</tspan></text>
+	</g>
+	<polyline clip-path="url(#SVGID_6_)" fill="#27AAE1" points="129.3,-223.1 129.3,-216.6 9.2,-216.6 9.2,-223.1 8.1,-223.1 
+		8.1,-215.4 130.5,-215.4 130.5,-223.1 129.3,-223.1 	"/>
+	<rect x="67.8" y="-216" clip-path="url(#SVGID_6_)" fill="#27AAE1" width="1.2" height="8"/>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 165.7283 -197.6832)"><tspan x="0" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">L</tspan><tspan x="5.3" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">A</tspan><tspan x="10.7" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">YOUT #2</tspan></text>
+	</g>
+	<polyline clip-path="url(#SVGID_6_)" fill="#27AAE1" points="229.4,-223.1 229.4,-216.6 151.6,-216.6 151.6,-223.1 150.5,-223.1 
+		150.5,-215.4 230.6,-215.4 230.6,-223.1 229.4,-223.1 	"/>
+	<rect x="190" y="-216" clip-path="url(#SVGID_6_)" fill="#27AAE1" width="1.2" height="8"/>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 104.5164 -165.8101)"><tspan x="0" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">P</tspan><tspan x="5.5" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">ANEL</tspan></text>
+	</g>
+	<polyline clip-path="url(#SVGID_6_)" fill="#27AAE1" points="229.4,-209.6 229.4,-183.3 9.1,-183.3 9.1,-209.6 8,-209.6 8,-182.1 
+		230.6,-182.1 230.6,-209.6 229.4,-209.6 	"/>
+	<rect x="118.7" y="-182.7" clip-path="url(#SVGID_6_)" fill="#27AAE1" width="1.2" height="7.7"/>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 153.0028 -265.8843)"><tspan x="0" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">WIDT</tspan><tspan x="23.4" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025" letter-spacing="13">H</tspan><tspan x="43.3" y="0" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">HEIGHT</tspan></text>
+	</g>
+	<polyline clip-path="url(#SVGID_6_)" fill="#27AAE1" points="151.4,-249.6 151.4,-256.1 184.9,-256.1 184.9,-249.6 186.1,-249.6 
+		186.1,-257.3 150.2,-257.3 150.2,-249.6 151.4,-249.6 	"/>
+	<polyline clip-path="url(#SVGID_6_)" fill="#27AAE1" points="197.2,-249.6 197.2,-256.1 229.4,-256.1 229.4,-249.6 230.6,-249.6 
+		230.6,-257.3 196,-257.3 196,-249.6 197.2,-249.6 	"/>
+	<rect x="167.5" y="-264.4" clip-path="url(#SVGID_6_)" fill="#27AAE1" width="1.2" height="7.7"/>
+	<rect x="213" y="-264.4" clip-path="url(#SVGID_6_)" fill="#27AAE1" width="1.2" height="7.7"/>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 100.7703 -265.8843)" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">HEIGHT</text>
+	</g>
+	<polyline clip-path="url(#SVGID_6_)" fill="#27AAE1" points="108.1,-249.6 108.1,-256.1 128.1,-256.1 128.1,-249.6 129.3,-249.6 
+		129.3,-257.3 106.9,-257.3 106.9,-249.6 108.1,-249.6 	"/>
+	<rect x="117.5" y="-264.4" clip-path="url(#SVGID_6_)" fill="#27AAE1" width="1.2" height="7.7"/>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 109.4451 -294.689)" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">BREAKPOINT</text>
+	</g>
+	<polyline clip-path="url(#SVGID_6_)" fill="#27AAE1" points="132.9,-249.6 132.9,-256.1 145.5,-256.1 145.5,-249.6 146.7,-249.6 
+		146.7,-257.3 131.7,-257.3 131.7,-249.6 132.9,-249.6 	"/>
+	<rect x="138.6" y="-290.6" clip-path="url(#SVGID_6_)" fill="#27AAE1" width="1.2" height="34"/>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 40.0604 -275.3863)" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">WIDTH</text>
+	</g>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 38.9207 -265.8843)" fill="#27AAE1" font-family="'HelveticaNeue'" font-size="9.5025">RANGE</text>
+	</g>
+	<polyline clip-path="url(#SVGID_6_)" fill="#27AAE1" points="9.7,-249.6 9.7,-256.1 95,-256.1 95,-249.6 96.2,-249.6 96.2,-257.3 
+		8.5,-257.3 8.5,-249.6 9.7,-249.6 	"/>
+	<rect x="54.6" y="-264.4" clip-path="url(#SVGID_6_)" fill="#27AAE1" width="1.2" height="7.7"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_7_" x="0.8" y="2" width="145" height="246"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_8_)" enable-background="new    ">
+		<g>
+			<defs>
+				<rect id="SVGID_9_" x="2.7" y="3.5" width="142" height="243"/>
+			</defs>
+			<clipPath id="SVGID_10_">
+				<use xlink:href="#SVGID_9_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_10_)">
+				<defs>
+					<rect id="SVGID_11_" x="0.7" y="1.5" width="146" height="247"/>
+				</defs>
+				<clipPath id="SVGID_12_">
+					<use xlink:href="#SVGID_11_"  overflow="visible"/>
+				</clipPath>
+				<rect x="2.8" y="4" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="4" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="26" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="26" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="48" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="48" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="70" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="70" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="92" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="92" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="114" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="114" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="136" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="136" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="158" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="158" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="180" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="180" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="202" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="202" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+				<rect x="2.8" y="224" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.4" height="22"/>
+				<rect x="73.2" y="224" clip-path="url(#SVGID_12_)" fill="#FFFFFF" width="70.6" height="22"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_13_" x="2.9" y="4.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_14_">
+		<use xlink:href="#SVGID_13_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_14_)">
+		<text transform="matrix(1 0 0 1 6.932 16.981)" font-family="'HelveticaNeue-Light'" font-size="9">300x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_15_" x="73.3" y="4.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_16_">
+		<use xlink:href="#SVGID_15_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_16_)">
+		<text transform="matrix(1 0 0 1 77.3414 16.981)" font-family="'HelveticaNeue-Light'" font-size="9">311x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_17_" x="2.9" y="26.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_18_">
+		<use xlink:href="#SVGID_17_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_18_)">
+		<text transform="matrix(1 0 0 1 6.932 38.981)" font-family="'HelveticaNeue-Light'" font-size="9">301x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_19_" x="73.3" y="26.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_20_">
+		<use xlink:href="#SVGID_19_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_20_)">
+		<text transform="matrix(1 0 0 1 77.3414 38.981)" font-family="'HelveticaNeue-Light'" font-size="9">312x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_21_" x="2.9" y="48.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_22_">
+		<use xlink:href="#SVGID_21_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_22_)">
+		<text transform="matrix(1 0 0 1 6.932 60.981)" font-family="'HelveticaNeue-Light'" font-size="9">302x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_23_" x="73.3" y="48.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_24_">
+		<use xlink:href="#SVGID_23_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_24_)">
+		<text transform="matrix(1 0 0 1 77.3414 60.981)" font-family="'HelveticaNeue-Light'" font-size="9">313x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_25_" x="2.9" y="70.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_26_">
+		<use xlink:href="#SVGID_25_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_26_)">
+		<text transform="matrix(1 0 0 1 6.932 82.981)" font-family="'HelveticaNeue-Light'" font-size="9">303x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_27_" x="73.3" y="70.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_28_">
+		<use xlink:href="#SVGID_27_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_28_)">
+		<text transform="matrix(1 0 0 1 77.3414 82.981)" font-family="'HelveticaNeue-Light'" font-size="9">314x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_29_" x="2.9" y="92.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_30_">
+		<use xlink:href="#SVGID_29_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_30_)">
+		<text transform="matrix(1 0 0 1 6.932 104.981)" font-family="'HelveticaNeue-Light'" font-size="9">304x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_31_" x="73.3" y="92.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_32_">
+		<use xlink:href="#SVGID_31_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_32_)">
+		<text transform="matrix(1 0 0 1 77.3414 104.981)" font-family="'HelveticaNeue-Light'" font-size="9">315x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_33_" x="2.9" y="114.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_34_">
+		<use xlink:href="#SVGID_33_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_34_)">
+		<text transform="matrix(1 0 0 1 6.932 126.981)" font-family="'HelveticaNeue-Light'" font-size="9">305x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_35_" x="73.3" y="114.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_36_">
+		<use xlink:href="#SVGID_35_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_36_)">
+		<text transform="matrix(1 0 0 1 77.3414 126.981)" font-family="'HelveticaNeue-Light'" font-size="9">316x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_37_" x="2.9" y="136.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_38_">
+		<use xlink:href="#SVGID_37_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_38_)">
+		<text transform="matrix(1 0 0 1 6.932 148.981)" font-family="'HelveticaNeue-Light'" font-size="9">306x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_39_" x="73.3" y="136.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_40_">
+		<use xlink:href="#SVGID_39_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_40_)">
+		<text transform="matrix(1 0 0 1 77.3414 148.981)" font-family="'HelveticaNeue-Light'" font-size="9">317x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_41_" x="2.9" y="158.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_42_">
+		<use xlink:href="#SVGID_41_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 6.932 170.981)" font-family="'HelveticaNeue-Light'" font-size="9">307x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_43_" x="73.3" y="158.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_44_">
+		<use xlink:href="#SVGID_43_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_44_)">
+		<text transform="matrix(1 0 0 1 77.3414 170.981)" font-family="'HelveticaNeue-Light'" font-size="9">318x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_45_" x="2.9" y="180.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_46_">
+		<use xlink:href="#SVGID_45_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_46_)">
+		<text transform="matrix(1 0 0 1 6.932 192.981)" font-family="'HelveticaNeue-Light'" font-size="9">308x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_47_" x="73.3" y="180.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_48_">
+		<use xlink:href="#SVGID_47_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_48_)">
+		<text transform="matrix(1 0 0 1 77.3414 192.981)" font-family="'HelveticaNeue-Light'" font-size="9">319x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_49_" x="2.9" y="202.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_50_">
+		<use xlink:href="#SVGID_49_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_50_)">
+		<text transform="matrix(1 0 0 1 6.932 214.981)" font-family="'HelveticaNeue-Light'" font-size="9">309x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_51_" x="73.3" y="202.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_52_">
+		<use xlink:href="#SVGID_51_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_52_)">
+		<text transform="matrix(1 0 0 1 77.3414 214.981)" font-family="'HelveticaNeue-Light'" font-size="9">320x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_53_" x="2.9" y="224.2" width="70.2" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_54_">
+		<use xlink:href="#SVGID_53_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 6.932 236.981)" font-family="'HelveticaNeue-Light'" font-size="9">310x50</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_55_" x="73.3" y="224.2" width="70.3" height="21.8"/>
+	</defs>
+	<clipPath id="SVGID_56_">
+		<use xlink:href="#SVGID_55_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_56_)">
+		<text transform="matrix(1 0 0 1 77.3414 236.981)" font-family="'HelveticaNeue-Light'" font-size="9">300x250 </text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_57_" x="0.8" y="2" width="145" height="246"/>
+	</defs>
+	<clipPath id="SVGID_58_">
+		<use xlink:href="#SVGID_57_"  overflow="visible"/>
+	</clipPath>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="73.2" y1="3.5" x2="73.2" y2="246.5"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="26" x2="144.3" y2="26"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="48" x2="144.3" y2="48"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="70" x2="144.3" y2="70"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="92" x2="144.3" y2="92"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="114" x2="144.3" y2="114"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="136" x2="144.3" y2="136"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="158" x2="144.3" y2="158"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="180" x2="144.3" y2="180"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="202" x2="144.3" y2="202"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="224" x2="144.3" y2="224"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.8" y1="3.5" x2="2.8" y2="246.5"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="143.8" y1="3.5" x2="143.8" y2="246.5"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="4" x2="144.3" y2="4"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#BEBEBE" stroke-width="0.25" x1="2.3" y1="246" x2="144.3" y2="246"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_59_" x="0.1" y="352.9" width="473.2" height="19.5"/>
+	</defs>
+	<clipPath id="SVGID_60_">
+		<use xlink:href="#SVGID_59_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_60_)">
+		<text transform="matrix(1 0 0 1 2.682 364.383)"><tspan x="0" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">ASPEC 1.0 | Theo Skye | Executive C</tspan><tspan x="143.7" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">r</tspan><tspan x="146.4" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">eative Di</tspan><tspan x="179.3" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">r</tspan><tspan x="181.9" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">ector | Medialets | </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_60_)">
+		<text transform="matrix(1 0 0 1 255.618 364.383)" fill="#021EA9" font-family="'HelveticaNeue-LightItalic'" font-size="9">theo.skye@medialets.com</text>
+	</g>
+	<g clip-path="url(#SVGID_60_)">
+		<text transform="matrix(1 0 0 1 358.092 364.383)" font-family="'HelveticaNeue-LightItalic'" font-size="9">                                           </text>
+	</g>
+	<g clip-path="url(#SVGID_60_)">
+		<text transform="matrix(1 0 0 1 465.678 364.383)" font-family="'HelveticaNeue-LightItalic'" font-size="9">9</text>
+	</g>
+	
+		<line clip-path="url(#SVGID_60_)" fill="none" stroke="#021EA9" stroke-width="0.45" stroke-miterlimit="10" x1="255.6" y1="364.9" x2="356.5" y2="364.9"/>
+</g>
+</svg>

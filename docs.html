@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta content="telephone=no" name="format-detection">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src=
+  "http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src=
+  "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+  <title>spec.ly</title>
+  <link href=
+  "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel=
+  "stylesheet">
+  <link href="specly.css" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Top Navbar -->
+  <!-- Top Navbar -->
+  <!-- Top Navbar -->
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button class="navbar-toggle" data-target=".navbar-collapse"
+        data-toggle="collapse" type="button"><span class="icon-bar"></span>
+        <span class="icon-bar"></span> <span class="icon-bar"></span></button>
+        <a class="navbar-brand" href="index.html"><img class="logo" src=
+        "images/logo.svg"></a>
+      </div>
+
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="index.html">Home</a>
+          </li>
+
+          <li class="active">
+            <a href="#Docs">Docs</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container-fluid">
+    <div class="row">
+      <!--Nav Bar -->
+
+      <nav class="col-xs-3 bs-docs-sidebar">
+        <ul class="nav nav-stacked affix" id="sidebar">
+          <li>
+            <a href="#introduction">Introduction</a>
+          </li>
+
+          <li>
+            <a href="#specly">Specly 1.0</a>
+
+            <ul class="nav nav-stacked">
+              <li>
+                <a href="#simpleBanner">Simple Banner</a>
+              </li>
+
+              <li>
+                <a href="#Expandable">Expandable Creative</a>
+              </li>
+
+              <li>
+                <a href="#Companion">Companion Creative</a>
+              </li>
+
+              <li>
+                <a href="#Dual">Dual-layout Panels</a>
+              </li>
+
+              <li>
+                <a href="#Size">Size Ranges</a>
+              </li>
+
+              <li>
+                <a href="#Safe">Safe Area</a>
+              </li>
+
+              <li>
+                <a href="#Responsively">Responsively Designed</a>
+              </li>
+
+              <li>
+                <a href="#ResponsivelyRanges">Responsively with Ranges</a>
+              </li>
+
+              <li>
+                <a href="#Fluid">Fluid Layout</a>
+              </li>
+            </ul>
+          </li>
+
+          <li>
+            <a href="#Glossary">Glossary</a>
+
+            <ul class="nav nav-stacked">
+              <!--   <li><a href="#GroupCSub1">Sub-Group 1</a></li>
+                    <li><a href="#GroupCSub2">Sub-Group 2</a></li> -->
+            </ul>
+          </li>
+        </ul>
+      </nav><!--Main Content -->
+
+      <div class="col-xs-9">
+        <section class="text" id="introduction">
+          <br>
+
+          <p>It's time for a change. The inefficient, inaccurate, and outdated
+          ways that the digital advertising industry communicates ad
+          specifications not only leads to countless operational challenges
+          that waste resources and negatively impact brand marketing
+          initiatives, but they also lead to missed opportunities for brands to
+          communicate as effectively as possible with their audiences. I have
+          come to realize that one of the most significant reasons for these
+          challenges is that the evolution of the language our industry uses to
+          describe digital ad specifications has not kept pace with the rapid
+          adoption of new devices, new form factors, and new ad
+          formats.</p><br>
+
+          <p>I liken this language challenge to that of a one-year-old at
+          daycare who can see and recognize the objects around her but may lack
+          the words—and even the alphabet—to accurately label the objects or
+          communicate with others about them. She can point at things, pick
+          them up, feel their weight and texture, and even share them with her
+          friends. But once she gets home, leaving the objects at her daycare,
+          she is unable to convey to her parents the things she saw and did
+          that day no matter how clearly she might actually remember seeing and
+          doing it all; she simply doesn’t know the words.</p><br>
+
+          <p>Similar to the child in that example, when inventory providers
+          have communicated their ad specifications to media and creative
+          teams, they have often not had the vocabulary to accurately describe
+          them. This fundamental challenge has led to all manner of operational
+          inefficiencies, but most importantly, it has (often imperceptibly)
+          prevented many brands from fully capitalizing on their digital
+          marketing spend. As the digital landscape becomes more intricate with
+          each passing quarter, this “death by a thousand cuts” has a dramatic
+          and increasingly significant negative impact on the efficiency and
+          effectiveness of our entire industry. It’s time for a change.</p><br>
+
+          <h4><i>Enter,</i> <b>Specly</b></h4><br>
+
+          <p style="font-weight: bold">Specly is the industry standard way to
+          accurately communicate digital ad specifications.</p>
+
+          <p>For many years, digital advertising has consisted of little more
+          than so-called “banners” on desktop web pages. Occasionally, these
+          banners can grow larger when tapped (expandable formats), but for the
+          most part, indicating a width value and height value is all anyone
+          needed to know to design and build a digital display ad.</p><br>
+
+          <p>Mobile media is just an extension of digital media. But the unique
+          ways that mobile ad placements can function with regard to device
+          orientation, the multitude of potential screen sizes, locked or
+          unlocked ad views, the lack of Flash support and several other
+          factors, mandates new methods for communicating digital ad
+          specifications and building and serving digital ad creatives. The
+          relatively simple lexicon that the digital advertising industry has
+          used for the past 15+ years for desktop advertising is simply
+          insufficient for today’s ad formats, much less for tomorrow’s. All
+          campaign stakeholders benefit from have ad specifications conveyed
+          simply, accurately, and comprehensively throughout the campaign
+          lifecycle so that timelines, budgets, and user experience can be
+          optimized.</p><br>
+
+          <p><b>Sepcly 1.0</b> covers display and rich media ad formats that
+          might be served to websites or apps on virtually any type of digital
+          screen: desktop/laptop computers, mobile devices, tablet devices,
+          smart TVs, digital signage, etc. Spec.ly even defines ways to specify
+          “next generation” digital formats such as responsively designed
+          creatives and multi-screen ad experiences. Specly will continue to
+          evolve and grow over time to help every facet of our industry with
+          the development of new ad formats and technologies to improve the
+          entire operational lifecycle of bringing digital ad campaigns to
+          market.</p>
+        </section>
+
+        <section class="text" id="specly">
+          <h3>Specly 1.0</h3><br>
+
+          <p>Specly is the industry standard way to accurately communicate
+          digital ad specifications.</p><br>
+
+          <p>Specly v1.0 defines a standard language for describing digital ad
+          specifications with a focus on the accuracy and completeness of ad
+          dimensions.</p><br>
+
+          <p>Specly v1.0 can be used for describing the dimensions of banner
+          ads, initial/collapsed banners, expanded panels, orientation-aware
+          layouts, fluid ad layouts with variable sizes, responsively designed
+          ads, and even experimental, multiscreen ad units.</p><br>
+
+          <p>Nearly everyone involved in the operations of the digital ad
+          campaign lifecycle has the need to communicate accurate and complete
+          ad specs to a client, colleague, or partner. Specly gives us the
+          tools to do just that.</p><br>
+
+          <p>Let’s dive in!</p><br>
+          <br>
+        </section>
+
+        <section>
+          <div class="subgroup" id="simpleBanner">
+            <div class="example1">
+            <h4 class="exampleHead"><b style="font-style: italic">Example 1:
+            simple banner</b><i></i></h4><img class="fig1" src=
+            "images/examples/specly_fig1.svg"></div><br>
+
+            <p>Example 1 illustrates a simple banner advertisement with a width
+            of 300 pixels and a height of 250 pixels.</p><br>
+
+            <ul>
+              <li>In Specly an “x” character is a special symbol used to
+              separate width dimensions from height dimensions.</li>
+
+              <li>In Specly, width dimensions are always listed before height
+              dimensions.</li>
+
+              <li>Each pair of width/height values is referred to as a layout.
+              As we’ll see below, a single creative design may contain multiple
+              layouts.</li>
+            </ul>
+
+            <p>Specly borrows heavily from existing conventions in common use
+            today. Specly strives to be additive and complementary to the
+            things we already know.</p><br>
+            <br>
+          </div>
+        </section>
+
+        <section>
+          <div class="subgroup" id="Expandable">
+            <div class="example2">
+            <h4 class="exampleHead" style=
+            "font-style: italic; font-weight: bold">Example 2: expandable
+            creative</h4><img class="fig2" src=
+            "images/examples/specly_fig2.svg"></div><br>
+
+            <p>Example 2 specifies an expandable advertisement that begins with
+            a 300x50 collapsed panel and expands to a 300x300 expanded
+            panel.</p><br>
+
+            <ul>
+              <li>Specly refers to each grouped set of dimensions as a panel.
+              The panels above contain only one layout each, but as we’ll see
+              in the following examples, a single panel may encapsulate more
+              than one layout.</li>
+
+              <li>The word <span style="font-style: italic">to</span> is a
+              special keyword in Specly that separates two ad panels from one
+              another.</li>
+
+              <li>The ad’s collapsed panel is always to the left of the to
+              keyword, and the expanded panel is to the right.</li>
+
+              <li>The <span style="font-style: italic">to</span> keyword also
+              inherently denotes that an ad is an expandable unit since the to
+              keyword is only ever used with expandable advertisements.</li>
+            </ul>
+          </div><br>
+        </section>
+
+        <section>
+          <div class="subgroup" id="Companion">
+            <div class="example3">
+            <h4 class="exampleHead" style=
+            "font-style: italic; font-weight: bold">Example 3: companion
+            creative and multi-screen creative</h4><img class="fig3" src=
+            "images/examples/specly_fig3.svg"></div><br>
+
+            <p>Example 3 specifies either a companion placement or a
+            multi-screen placement. These are placements where two ad panels
+            are both simultaneously visible, and may even interact with one
+            another.</p><br>
+
+            <ul>
+              <li>In Specly, the word <span style=
+              "font-style: italic">with</span> is a special keyword used to
+              separate primary and secondary ad panels in multi-screen ad
+              placements or companion ad placements.</li>
+
+              <li>At the time of this writing, multi-screen placements are
+              still considered experimental. Placements with companion ads are
+              more common, especially with video inventory.</li>
+            </ul>
+          </div><br>
+        </section>
+
+        <section>
+          <div class="subgroup" id="Dual">
+            <div class="example4">
+            <h4 class="exampleHead"><b style="font-style: italic">Example 4:
+            dual-layout panels</b><i></i></h4><img class="fig4" src=
+            "images/examples/specly_fig4.svg"></div><br>
+
+            <p>Example 4 specifies an expandable creative that begins with a
+            300x250 collapsed banner and expands to an orientation aware
+            expanded panel that should contain two layouts: (1) a 768x1024
+            layout for portrait (<span>P:</span>) orientation and a 1024x768
+            layout for landscape (<span>L:</span>) orientation. This example
+            also illustrates another special Specly keyword, the ampersand
+            (<span>&amp;</span>).</p><br>
+
+            <ul>
+              <li>In Specly, the ampersand (<span>&amp;</span>) is a special
+              symbol that separates layouts in orientation-aware panels. The
+              ampersand is used when an orientation-aware panel can not be
+              locked in one orientation and creative appearing in that panel
+              must be designed and built with consideration for both layouts.
+              The ampersand also implies that when the expanded panel is first
+              shown, it will appear in the layout matching the device’s current
+              orientation.</li>
+
+              <li>The <i><span>P:</span></i> prefix—with a capital “P” and a
+              colon—is used to denote the dimensions of the ad layout when the
+              device is in portrait orientation. The P: prefix is optional. The
+              size of the portrait orientation layout is always listed
+              first.</li>
+
+              <li>The <i><span>L:</span></i> prefix—with a capital “L” and a
+              colon—is used to denote the dimensions of the ad layout when the
+              device is in landscape orientation. The size of the landscape
+              orientation layout is always listed to the right of the ampersand
+              separator.</li>
+
+              <li>Note that dual-layout, orientation-aware panels are not
+              inherently limited to the secondary, expanded panels. Any panel
+              in a given creative may be required to consider more than one
+              layout, even a non-expanding panel, or the collapsed panel of an
+              expandable creative. But in Specly, a collapsed panel with more
+              than one layout would be specified identically to any other panel
+              with more than one layout.</li>
+            </ul>
+          </div><br>
+        </section>
+
+        <section>
+          <div class="subgroup" id="Size">
+            <div class="example5">
+            <h4 class="exampleHead" style=
+            "font-style: italic; font-weight: bold">Example 5: Size
+            ranges</h4><img class="fig5" src=
+            "images/examples/specly_fig5.svg"></div><br>
+
+            <p>Example 5 introduces the notion of layout dimensions that have a
+            size range. This is a common scenario in mobile creatives that are
+            designed to “full page” where “full page” may vary depending on
+            myriad factors, such as device model, browser name, operating
+            system version, etc.</p><br>
+
+            <p>Example 5 is actually a real-world Specly for a mobile web, iPad
+            ad placement. Both the portrait and landscape layouts in the
+            expanded panel have variable heights that range between the min and
+            max possible heights—depending on iOS version and user
+            configuration settings—for the Safari browser on an iPad in both
+            iOS 6 and iOS 7.</p><br>
+
+            <ul>
+              <li>Specly surrounds <i>size ranges</i> with square brackets:
+              <i><span>[</span></i> and <i><span>]</span></i>. The minimum and
+              maximum sizes of the layout’s given dimension are separated from
+              each other by a dash/minus sign: <span>-</span>. The minimum size
+              appears to the left of the dash, and the maximum size appears in
+              the right of the dash.</li>
+            </ul>
+          </div><br>
+        </section>
+
+        <section>
+          <div class="subgroup" id="Safe">
+            <div class="example6">
+            <h4 class="exampleHead" style=
+            "font-style: italic; font-weight: bold">Example 6: Safe
+            area</h4><img class="fig6" src=
+            "images/examples/specly_fig6.svg"></div><br>
+
+            <p>Example 6 illustrates the use of the “<i><span>S:</span></i>”
+            prefix that specifies the dimensions of a required safe area for
+            the ad creative. Everything before the <i><span>S:</span></i>
+            prefix describes the characteristics of the ad placement’s physical
+            boundaries.</p><br>
+
+            <p>A <i>safe area</i> is often used as a means to help streamline
+            the creative design and development process. A single layout is
+            designed to fill the ad placement in both orientations and a
+            vertically- and smaller, horizontally-centered safe area is used to
+            contain all the “main elements” of an ad creative, such as logos,
+            interactive elements, animations, etc. that need to remain visible
+            at all times and in all use cases of screen size, browser viewport
+            size, device orientations, etc. Any creative elements that lie
+            outside of the safe area (background images, etc.) may be cropped
+            or covered in various use cases.</p><br>
+
+            <ul>
+              <li>In Specly, a <i>safe area</i> layout is entered after all
+              other layouts within a given panel.</li>
+
+              <li>To help with legibility, a safe area layout should be
+              enclosed in parenthesis: <i>(</i> and <i>)</i>.</li>
+
+              <li>A <i>safe area</i> is always a single, fixed size; a <i>safe
+              area</i> never contains a <i>size range</i>.
+
+                <ul>
+                  <li>A <i>safe area</i> always has a fixed width that is less
+                  than the smallest minimum width of all layouts in the same
+                  panel.</li>
+
+                  <li>A <i>safe area</i> always has a fixed height that is less
+                  than or equal to the minimum height of all layouts in the
+                  same panel.</li>
+                </ul>
+              </li>
+
+              <li>Whenever a safe area is specified as part of an Specly ad
+              specification, it is implied that using the safe area is
+              required. Never specify a safe area in Specly if using a safe
+              area is optional.</li>
+
+              <li>Note that creative professionals may optionally choose to use
+              a single layout, <i>safe area</i> design even within ad panels
+              that do not require them, but doing so would be a design strategy
+              at the discretion of the creative professional.</li>
+            </ul>
+          </div><br>
+        </section>
+
+        <section>
+          <div class="subgroup" id="Responsively">
+            <div class="example7">
+            <h4 class="exampleHead" style=
+            "font-style: italic; font-weight: bold">Example 7: Responsively
+            designed ad creative</h4><img class="fig7" src=
+            "images/examples/specly_fig7.svg"></div><br>
+
+            <p>Example 7 illustrates the specification for a responsively
+            designed ad creative that is designed to render properly within
+            three fixed placement sizes: 300x50, 320x50, and 300x250.</p><br>
+
+            <p>One responsively designed ad creative can be served into
+            multiple placement sizes; it’s as if multiple creative sizes (or
+            size ranges) are stored “inside” a single ad creative that can be
+            trafficked to all compatible placement sizes. All of the
+            intelligence about how the creative should be displayed in a given
+            ad placement is implemented within the ad creative.</p><br>
+
+            <p>Responsive design methodologies use the the term breakpoint in
+            reference to the logical separation of each separate size (or size
+            range) that a responsive ad creative is built for. Specly uses the
+            forward-slash character “/“ as a special symbol to signify a
+            breakpoint within a responsively designed ad creative.</p><br>
+
+            <p>Note that there are two breakpoints and three fixed-size layouts
+            in Example 7.</p><br>
+
+            <ul>
+              <li>In Specly, the forward-slash character “<span>/</span>“ is a
+              special symbol used to signify a breakpoint in a responsively
+              designed ad creative.</li>
+
+              <li>A responsively designed panel may contain one or more
+              layouts, each separated by a breakpoint.</li>
+            </ul>
+          </div><br>
+        </section>
+
+        <section>
+          <div class="subgroup" id="ResponsivelyRanges">
+            <div class="example8">
+            <h4 class="exampleHead" style=
+            "font-style: italic; font-weight: bold">Example 8: Responsively
+            designed ad creative with size ranges in layouts</h4><img class=
+            "fig8" src="images/examples/specly_fig8.svg"></div><br>
+
+            <p>Example 8 illustrates the specification for a responsively
+            designed ad creative that is designed to render properly within
+            multiple placement sizes.</p><br>
+
+            <p>Note that there is one breakpoint, one fluid-sized layout, and
+            one fixed-size layout in Example 8.</p><br>
+
+            <p>At first glance, this Example 8 may look similar to the previous
+            Example 7, and it is; the differences between Example 7 and Example
+            8 are subtle, but important to understand.</p><br>
+
+            <p>Since this ad creative in Example 8 uses a fluid-width in Layout
+            #1, this ad creative is more flexible (pun intended) and could
+            therefore be displayed not just in three placement sizes (300x50,
+            320x50, and 300x250) but instead in any of the following 22
+            (theoretical) placement sizes:</p><br>
+            <img class="tableImage" src="images/examples/table.svg"><br>
+
+            <p>The fluid-width that is applied in Layout #1 makes this ad
+            creative compatible with a range of placement sizes.</p><br>
+
+            <ul>
+              <li>Specly is designed to accommodate the specification of
+              responsively designed ad creatives that use fluid layouts between
+              each breakpoint.</li>
+            </ul>
+          </div><br>
+        </section>
+
+        <section>
+          <div class="subgroup" id="Fluid">
+            <div class="example9">
+            <h4 class="exampleHead" style=
+            "font-style: italic; font-weight: bold">Example 9: Responsively
+            designed ad creative with size ranges in layouts</h4><img class=
+            "fig9" src="images/examples/specly_fig9.svg"></div><br>
+
+            <p>Example 9 illustrates the specification for a responsively
+            designed expandable ad creative that is designed to render properly
+            in multiple placement sizes that are common handset and tablet
+            sizes in both mobile websites and mobile apps.</p><br>
+
+            <p>While exceptionally long, this line of Specly accurately and
+            completely illustrates the specifications for an expandable ad
+            creative that could be trafficked to the vast majority of mobile
+            and tablet ad placements available today.</p><br>
+
+            <ul>
+              <li>Note that it is exceptionally important not to confuse the
+              separate purposes of the <span>/</span> and the
+              <span>&amp;</span> symbols.
+
+                <ul>
+                  <li>The <span>/</span> symbol is used to separate layouts
+                  within the same orientation of a given panel.</li>
+
+                  <li>The <span>&amp;</span> symbol is used to separate all the
+                  portrait layouts from landscape layouts in
+                  dual-orientation</li>
+                </ul>
+              </li>
+            </ul>
+          </div><br>
+        </section>
+
+        <section class="group" id="Glossary">
+          <div class="example10">
+          <h4 class="exampleHead" style=
+          "font-style: italic; font-weight: bold">Specly v1.0: Glossary of Symbols and Keywords</h4>
+          <table>
+            <tr>
+              <td class="first">x</td>
+              <td class="definition">The “x” character is used to separate width dimensions from height dimensions. Width is always listed first, to the left of the “x”. Height is always listed second, to the right of the “x”.</td>
+            </tr>
+            <tr>
+              <td class="first">layout</td>
+              <td class="definition">A <i>layout</i> is made up by a pair of width and height dimensions separated by the “x” keyword.</td>
+            </tr>
+            <tr>
+              <td class="first">panel</td>
+              <td class="definition">A <i>panel</i> is a group of one or two layouts, and potentially a safe area as well.</td>
+            </tr>
+            <tr>
+              <td class="first">to</td>
+              <td class="definition">The keyword "to" between two panels is used to separate the collapsed panel from an expanded panel. The presence of the “to” keyword indicates that the ad is an expandable.</td>
+            </tr>
+            <tr>
+              <td class="first">with</td>
+              <td class="definition">The keyword “with” between two panels is used to separate the primary and secondary ad panels in multi-screen placements and companion placements. (Multi-screen placements are currently quite rare.)</td>
+            </tr>
+            <tr>
+              <td class="first">&amp;</td>
+              <td class="definition">The ampersand—read as "and"—separates layouts in orientation-aware panels. The “&amp;” denotes an orientation-aware ad panel that can not be locked and may appear at either the portrait or landscape layout that appear on each side of the “&amp;”.</td>
+            </tr>
+            <tr>
+              <td class="first">[ ]</td>
+              <td class="definition">Pairs of brackets are used to encapsulate a size range—the possible range of width dimensions or a possible range of height dimensions.</td>
+            </tr>
+            <tr>
+              <td class="first">-</td>
+              <td class="definition">A simple dash “-” is used to separate minimum &amp; maximum width or height sizes in a single layout. Note that this convention is not used for indicating size variations between two different layouts within an orientation-aware panel.</td>
+            </tr>
+            <tr>
+              <td class="first">/</td>
+              <td class="definition">The slash symbol is used to separate layouts—or pairs of portrait &amp; landscape layouts—in responsively designed ad creatives. The slash symbol can also be referred to as a <i>breakpoint</i>.</td>
+            </tr>
+            <tr>
+              <td class="first fullpage">full page</td>
+              <td class="definition">The “full page” keyword is used as a shorthand for indicating the dimensions of the entire available space in a dual-layout, orientation-aware panel. In mobile web placements, “full page” refers to the browser viewport — the window where page content is displayed. A browser’s viewport is usually not full screen because browser navigation bars For in-app placements, “full page” generally means “full screen”—the entire screen of the mobile device.</td>
+            </tr>
+            <tr>
+              <td class="first">P:</td>
+              <td class="definition">The upper-case “P:” prefix is optionally placed before the portrait-orientation layout of a given ad panel. Generally, the “P:” prefix is used only for ad panels that are orientation-aware, and also contain a “L:” layout (see below).</td>
+            </tr>
+            <tr>
+              <td class="first">L:</td>
+              <td class="definition">The upper-case “L:” prefix is optionally placed before the landscape-orientation layout of a given ad panel. Generally, the “L:” prefix is used only for ad panels that are orientation-aware, and also contain a “P:” layout (see above).</td>
+            </tr>
+            <tr>
+              <td class="first">S:</td>
+              <td class="definition">The upper-case “S:” prefix indicates that a required, centered “safe area” should be applied within a given ad panel. A safe area is meant to contain the “main elements” of an ad execution, such as logos, interactive elements, animations, etc. that will always remain visible in all use cases of screen size, viewport size, screen orientations, etc. Any elements or background images that sit outside of the safe area may be cropped off in one scenario or another. Optional safe areas are never included in an Specly specification.</td>
+            </tr>
+
+          </table>
+          
+
+
+        </section><!-- <footer>
+          <h4>320x50</h4>
+        </footer> -->
+      </div>
+    </div>
+  </div><script src="specly.js" type="text/javascript"></script>
+</body>
+</html>

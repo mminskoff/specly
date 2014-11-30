@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 469 599" enable-background="new 0 0 469 599" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="747" y="58.8" width="612" height="792"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<rect x="747" y="58.8" clip-path="url(#SVGID_2_)" fill="#FFFFFF" width="612" height="792"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="1" y="8" width="79.7" height="31.5"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 37.0743 24.5341)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">x</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_5_" x="81.7" y="8" width="386.3" height="31.5"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 84.6667 19.8001)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The “x” character is used to separate width dimensions f</tspan><tspan x="218.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="220.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">om height dimensions. </tspan><tspan x="311" y="0" font-family="'HelveticaNeue-Light'" font-size="9">W</tspan><tspan x="319.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">idth is always </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 84.6667 34.0218)" font-family="'HelveticaNeue-Light'" font-size="9">listed ﬁrst, to the left of the “x”. Height s always listed second, to the right of the “x”.</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_7_" x="1" y="40.5" width="79.7" height="23"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_8_)">
+		<text transform="matrix(1 0 0 1 20.4844 57.072)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">layout</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_9_" x="81.7" y="40.5" width="386.3" height="23"/>
+	</defs>
+	<clipPath id="SVGID_10_">
+		<use xlink:href="#SVGID_9_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_10_)">
+		<text transform="matrix(1 0 0 1 84.6667 52.3471)" font-family="'HelveticaNeue-Light'" font-size="9">A </text>
+	</g>
+	<g clip-path="url(#SVGID_10_)">
+		<text transform="matrix(1 0 0 1 92.8386 52.3471)" font-family="'HelveticaNeue-LightItalic'" font-size="9">layout</text>
+	</g>
+	<g clip-path="url(#SVGID_10_)">
+		<text transform="matrix(1 0 0 1 115.8425 52.3471)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9"> is made up by a pair of width and height dimensions separated by the “x” keywo</tspan><tspan x="313.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="316.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">d.</tspan></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_11_" x="1" y="64.5" width="79.7" height="23"/>
+	</defs>
+	<clipPath id="SVGID_12_">
+		<use xlink:href="#SVGID_11_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_12_)">
+		<text transform="matrix(1 0 0 1 22.5633 81.0921)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">panel</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_13_" x="81.7" y="64.5" width="386.3" height="23"/>
+	</defs>
+	<clipPath id="SVGID_14_">
+		<use xlink:href="#SVGID_13_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_14_)">
+		<text transform="matrix(1 0 0 1 84.6667 76.3671)" font-family="'HelveticaNeue-Light'" font-size="9">A </text>
+	</g>
+	<g clip-path="url(#SVGID_14_)">
+		<text transform="matrix(1 0 0 1 92.8386 76.3671)" font-family="'HelveticaNeue-LightItalic'" font-size="9">panel</text>
+	</g>
+	<g clip-path="url(#SVGID_14_)">
+		<text transform="matrix(1 0 0 1 113.8449 76.3671)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9"> is a g</tspan><tspan x="23.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="25.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">oup of one or two layouts, and potentially a safe a</tspan><tspan x="218.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="221.3" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ea as well. </tspan></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_15_" x="1" y="88.6" width="79.7" height="31.5"/>
+	</defs>
+	<clipPath id="SVGID_16_">
+		<use xlink:href="#SVGID_15_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_16_)">
+		<text transform="matrix(1 0 0 1 34.0923 105.1121)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">to</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_17_" x="81.7" y="88.6" width="386.3" height="31.5"/>
+	</defs>
+	<clipPath id="SVGID_18_">
+		<use xlink:href="#SVGID_17_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_18_)">
+		<text transform="matrix(1 0 0 1 84.6667 100.3781)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The keywo</tspan><tspan x="42" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="44.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">d &quot;to&quot; between two panels is used to separate the collapsed panel f</tspan><tspan x="306.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="308.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">om an expanded </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_18_)">
+		<text transform="matrix(1 0 0 1 84.6667 114.5998)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">panel. The p</tspan><tspan x="48.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="50.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">esence of the “to” keywo</tspan><tspan x="147.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="150.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">d indicates that the ad is an expandable.</tspan></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_19_" x="1" y="121.1" width="79.7" height="46"/>
+	</defs>
+	<clipPath id="SVGID_20_">
+		<use xlink:href="#SVGID_19_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_20_)">
+		<text transform="matrix(1 0 0 1 26.7143 137.65)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">with</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_21_" x="81.7" y="121.1" width="386.3" height="46"/>
+	</defs>
+	<clipPath id="SVGID_22_">
+		<use xlink:href="#SVGID_21_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_22_)">
+		<text transform="matrix(1 0 0 1 84.6667 132.916)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The keywo</tspan><tspan x="42" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="44.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">d “with” between two panels is used to separate the primary and secondary ad panels </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_22_)">
+		<text transform="matrix(1 0 0 1 84.6667 147.1377)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">in multi-sc</tspan><tspan x="39.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="42.3" y="0" font-family="'HelveticaNeue-Light'" font-size="9">een placements and companion placements. (Multi-sc</tspan><tspan x="251.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="254.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">een placements a</tspan><tspan x="323.3" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="326" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e cur</tspan><tspan x="345.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="348.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ently </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_22_)">
+		<text transform="matrix(1 0 0 1 84.6667 161.3594)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">quite ra</tspan><tspan x="29" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="31.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e.)</tspan></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_23_" x="1" y="168.1" width="79.7" height="46"/>
+	</defs>
+	<clipPath id="SVGID_24_">
+		<use xlink:href="#SVGID_23_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_24_)">
+		<text transform="matrix(1 0 0 1 36.0383 184.6665)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">&amp;</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_25_" x="81.7" y="168.1" width="386.3" height="46"/>
+	</defs>
+	<clipPath id="SVGID_26_">
+		<use xlink:href="#SVGID_25_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_26_)">
+		<text transform="matrix(1 0 0 1 84.6667 179.9325)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The ampersand—</tspan><tspan x="69.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="72.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ead as &quot;and&quot;—separates layouts in orientation-awa</tspan><tspan x="270.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="273.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e panels. The “&amp;” denotes </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_26_)">
+		<text transform="matrix(1 0 0 1 84.6667 194.1542)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">an orientation-awa</tspan><tspan x="71.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="74.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e ad panel that can not be locked and may appear at either the portrait or </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_26_)">
+		<text transform="matrix(1 0 0 1 84.6667 208.3758)" font-family="'HelveticaNeue-Light'" font-size="9">landscape layout that appear on each side of the “&amp;”.</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_27_" x="1" y="218.6" width="79.7" height="31.5"/>
+	</defs>
+	<clipPath id="SVGID_28_">
+		<use xlink:href="#SVGID_27_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_28_)">
+		<text transform="matrix(1 0 0 1 32.3373 240.2059)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="18">[ ]</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_29_" x="81.7" y="218.6" width="386.3" height="31.5"/>
+	</defs>
+	<clipPath id="SVGID_30_">
+		<use xlink:href="#SVGID_29_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_30_)">
+		<text transform="matrix(1 0 0 1 84.6667 230.4559)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">Pairs of brackets a</tspan><tspan x="72.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="74.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e used to encapsulate a size range—the possible range of width dimensions or </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_30_)">
+		<text transform="matrix(1 0 0 1 84.6667 244.6776)" font-family="'HelveticaNeue-Light'" font-size="9">a possible range of height dimensions.</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_31_" x="1" y="251.2" width="79.7" height="46"/>
+	</defs>
+	<clipPath id="SVGID_32_">
+		<use xlink:href="#SVGID_31_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_32_)">
+		<text transform="matrix(1 0 0 1 37.3333 267.7278)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">–</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_33_" x="81.7" y="251.2" width="386.3" height="46"/>
+	</defs>
+	<clipPath id="SVGID_34_">
+		<use xlink:href="#SVGID_33_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_34_)">
+		<text transform="matrix(1 0 0 1 84.6667 262.9938)" font-family="'HelveticaNeue-Light'" font-size="9">A simple dash “-” is used to separate minimum &amp; maximum width or height sizes in a single </text>
+	</g>
+	<g clip-path="url(#SVGID_34_)">
+		<text transform="matrix(1 0 0 1 84.6667 277.2155)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">layout. Note that this convention is not used for indicating size variations between two di</tspan><tspan x="340.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">f</tspan><tspan x="342.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">fe</tspan><tspan x="349.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="352.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ent </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_34_)">
+		<text transform="matrix(1 0 0 1 84.6667 291.4372)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">layouts within an orientation-awa</tspan><tspan x="126.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="129.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e panel.</tspan></text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_35_" x="1" y="297.2" width="79.7" height="31.5"/>
+	</defs>
+	<clipPath id="SVGID_36_">
+		<use xlink:href="#SVGID_35_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_36_)">
+		<text transform="matrix(1 0 0 1 38.2363 313.7443)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">/</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_37_" x="81.7" y="297.2" width="386.3" height="31.5"/>
+	</defs>
+	<clipPath id="SVGID_38_">
+		<use xlink:href="#SVGID_37_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_38_)">
+		<text transform="matrix(1 0 0 1 84.6667 309.0103)" font-family="'HelveticaNeue-Light'" font-size="9">The slash symbol is used to separate layouts—or pairs of portrait &amp; landscape layouts—in </text>
+	</g>
+	<g clip-path="url(#SVGID_38_)">
+		<text transform="matrix(1 0 0 1 84.6667 323.241)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="2.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">esponsively designed ad c</tspan><tspan x="104.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="107.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eatives. The slash symbol can also be </tspan><tspan x="256.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="258.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">efer</tspan><tspan x="273.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="276.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ed to as a </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_38_)">
+		<text transform="matrix(1 0 0 1 401.9343 323.241)"><tspan x="0" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">b</tspan><tspan x="5.2" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">r</tspan><tspan x="7.8" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">eakpoint</tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_38_)">
+		<text transform="matrix(1 0 0 1 442.6149 323.241)" font-family="'HelveticaNeue-Light'" font-size="9">.</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_39_" x="1" y="329.7" width="79.7" height="75"/>
+	</defs>
+	<clipPath id="SVGID_40_">
+		<use xlink:href="#SVGID_39_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_40_)">
+		<text transform="matrix(1 0 0 1 12.2033 346.2914)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">full page</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_41_" x="81.7" y="329.7" width="386.3" height="75"/>
+	</defs>
+	<clipPath id="SVGID_42_">
+		<use xlink:href="#SVGID_41_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 84.6667 341.5665)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The “full page” keywo</tspan><tspan x="83.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="86.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">d is used as a shorthand for indicating the dimensions of the enti</tspan><tspan x="335.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="338.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 430.402 341.5665)" font-family="'HelveticaNeue-LightItalic'" font-size="9">available </text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 84.6667 355.7999)" font-family="'HelveticaNeue-LightItalic'" font-size="9">space</text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 108.1745 355.7999)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9"> in a dual-layout, orientation-awa</tspan><tspan x="126.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="128.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e panel. In mobile web placements, “full page” </tspan><tspan x="310.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="312.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">efers to the </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 84.6667 370.0334)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">b</tspan><tspan x="5.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="7.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">owser </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 118.5158 370.0334)" font-family="'HelveticaNeue-LightItalic'" font-size="9">viewport</text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 151.3566 370.0334)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9"> — the window whe</tspan><tspan x="77.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="80" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e page content is displayed. A b</tspan><tspan x="204.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="207.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">owser</tspan><tspan x="230.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">’</tspan><tspan x="232.3" y="0" font-family="'HelveticaNeue-Light'" font-size="9">s viewport is usually </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 84.6667 384.2669)" font-family="'HelveticaNeue-LightItalic'" font-size="9">not</text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 97.1677 384.2669)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9"> full sc</tspan><tspan x="24.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="27.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">een because b</tspan><tspan x="84.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="87.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">owser navigation bars  For in-app placements, “full page” generally </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 84.6667 398.5003)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">means “full sc</tspan><tspan x="53.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="56.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">een”—the </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 182.3435 398.5003)"><tspan x="0" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">enti</tspan><tspan x="13.8" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">r</tspan><tspan x="16.5" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">e sc</tspan><tspan x="32.7" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">r</tspan><tspan x="35.4" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">een</tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 231.8708 398.5003)" font-family="'HelveticaNeue-Light'" font-size="9"> of the mobile device.</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_43_" x="1" y="408.8" width="79.7" height="46"/>
+	</defs>
+	<clipPath id="SVGID_44_">
+		<use xlink:href="#SVGID_43_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_44_)">
+		<text transform="matrix(1 0 0 1 34.2183 425.3222)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">P:</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_45_" x="81.7" y="408.8" width="386.3" height="46"/>
+	</defs>
+	<clipPath id="SVGID_46_">
+		<use xlink:href="#SVGID_45_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_46_)">
+		<text transform="matrix(1 0 0 1 84.6667 420.5972)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The uppe</tspan><tspan x="36.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="39.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">-case “P:” p</tspan><tspan x="85.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="88.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eﬁx is </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_46_)">
+		<text transform="matrix(1 0 0 1 197.1935 420.5972)" font-family="'HelveticaNeue-LightItalic'" font-size="9">optionally</text>
+	</g>
+	<g clip-path="url(#SVGID_46_)">
+		<text transform="matrix(1 0 0 1 233.6979 420.5972)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9"> placed befo</tspan><tspan x="48.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="50.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e the portrait-orientation layout of a given ad </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_46_)">
+		<text transform="matrix(1 0 0 1 84.6667 434.8216)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">panel. Generall</tspan><tspan x="57.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">y</tspan><tspan x="61" y="0" font-family="'HelveticaNeue-Light'" font-size="9">, the “P:” p</tspan><tspan x="103.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="105.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eﬁx is used only for ad panels that a</tspan><tspan x="244.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="247.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e orientation-awa</tspan><tspan x="314.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="316.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e, and also </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_46_)">
+		<text transform="matrix(1 0 0 1 84.6667 449.0433)" font-family="'HelveticaNeue-Light'" font-size="9">contain a “L:” layout (see below).</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_47_" x="1" y="457.8" width="79.7" height="46"/>
+	</defs>
+	<clipPath id="SVGID_48_">
+		<use xlink:href="#SVGID_47_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_48_)">
+		<text transform="matrix(1 0 0 1 34.7363 474.3506)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">L:</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_49_" x="81.7" y="457.8" width="386.3" height="46"/>
+	</defs>
+	<clipPath id="SVGID_50_">
+		<use xlink:href="#SVGID_49_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_50_)">
+		<text transform="matrix(1 0 0 1 84.6667 469.6257)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The uppe</tspan><tspan x="36.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="39.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">-case “L:” p</tspan><tspan x="85" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="87.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eﬁx is </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_50_)">
+		<text transform="matrix(1 0 0 1 196.3566 469.6257)" font-family="'HelveticaNeue-LightItalic'" font-size="9">optionally</text>
+	</g>
+	<g clip-path="url(#SVGID_50_)">
+		<text transform="matrix(1 0 0 1 232.8606 469.6257)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9"> placed befo</tspan><tspan x="48.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="50.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e the landscape-orientation layout of a given </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_50_)">
+		<text transform="matrix(1 0 0 1 84.6667 483.8501)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ad panel. Generall</tspan><tspan x="70" y="0" font-family="'HelveticaNeue-Light'" font-size="9">y</tspan><tspan x="73.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">, the “L:” p</tspan><tspan x="114.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="117.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eﬁx is used only for ad panels that a</tspan><tspan x="255.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="258.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e orientation-awa</tspan><tspan x="325.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="328.3" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e, and also </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_50_)">
+		<text transform="matrix(1 0 0 1 84.6667 498.0717)" font-family="'HelveticaNeue-Light'" font-size="9">contain a “P:” layout (see above).</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_51_" x="1" y="504.8" width="79.7" height="89.5"/>
+	</defs>
+	<clipPath id="SVGID_52_">
+		<use xlink:href="#SVGID_51_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_52_)">
+		<text transform="matrix(1 0 0 1 34.3443 521.3791)" fill="#367DA2" font-family="'HelveticaNeue-Bold'" font-size="14">S:</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_53_" x="81.7" y="504.8" width="386.3" height="89.5"/>
+	</defs>
+	<clipPath id="SVGID_54_">
+		<use xlink:href="#SVGID_53_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 84.6667 516.6541)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">The uppe</tspan><tspan x="36.8" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="39.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">-case “S:” p</tspan><tspan x="85.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="88.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eﬁx indicates that a </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 250.0417 516.6541)"><tspan x="0" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">r</tspan><tspan x="2.7" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">equi</tspan><tspan x="19" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">r</tspan><tspan x="21.7" y="0" font-family="'HelveticaNeue-LightItalic'" font-size="9">ed</tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 281.5598 516.6541)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">, cente</tspan><tspan x="26.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="29.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ed “safe a</tspan><tspan x="68" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="70.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ea” should be applied within </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 84.6667 530.8785)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">a given ad panel. A safe a</tspan><tspan x="99.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="102.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ea is meant to contain the “main elements” of an ad execution, such as </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 84.6667 545.1002)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">logos, interactive elements, animations, etc. that will always </tspan><tspan x="231.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="234.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">emain visible in all use cases of </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 84.6667 559.3219)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">sc</tspan><tspan x="9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="11.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">een size, viewport size, sc</tspan><tspan x="112.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="115.1" y="0" font-family="'HelveticaNeue-Light'" font-size="9">een orientations, etc. Any elements or backg</tspan><tspan x="287.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="290.3" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ound images that sit </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 84.6667 573.5435)"><tspan x="0" y="0" font-family="'HelveticaNeue-Light'" font-size="9">outside of the safe a</tspan><tspan x="78.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="81.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">ea may be c</tspan><tspan x="128.9" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="131.6" y="0" font-family="'HelveticaNeue-Light'" font-size="9">opped o</tspan><tspan x="164.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">f</tspan><tspan x="166.4" y="0" font-family="'HelveticaNeue-Light'" font-size="9">f in one scenario or anothe</tspan><tspan x="269.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="271.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">. Optional safe a</tspan><tspan x="334.5" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="337.2" y="0" font-family="'HelveticaNeue-Light'" font-size="9">eas a</tspan><tspan x="358" y="0" font-family="'HelveticaNeue-Light'" font-size="9">r</tspan><tspan x="360.7" y="0" font-family="'HelveticaNeue-Light'" font-size="9">e </tspan></text>
+	</g>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 84.6667 587.7652)" font-family="'HelveticaNeue-Light'" font-size="9">never included in an Specly speciﬁcation.</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_55_" x="80.7" y="7" width="1" height="587.3"/>
+	</defs>
+	<clipPath id="SVGID_56_">
+		<use xlink:href="#SVGID_55_"  overflow="visible"/>
+	</clipPath>
+	
+		<line clip-path="url(#SVGID_56_)" fill="none" stroke="#000000" stroke-width="0.957" stroke-dasharray="0.957,1.9139" x1="81.2" y1="7" x2="81.2" y2="594.3"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_57_" y="5.5" width="469" height="644"/>
+	</defs>
+	<clipPath id="SVGID_58_">
+		<use xlink:href="#SVGID_57_"  overflow="visible"/>
+	</clipPath>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="40" x2="468" y2="40"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="64" x2="468" y2="64"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="88.1" x2="468" y2="88.1"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="120.6" x2="468" y2="120.6"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="167.6" x2="468" y2="167.6"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="218.1" x2="468" y2="218.1"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="250.7" x2="468" y2="250.7"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="297.7" x2="468" y2="297.7"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="328.2" x2="468" y2="328.2"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="408.3" x2="468" y2="408.3"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="457.3" x2="468" y2="457.3"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="503.3" x2="468" y2="503.3"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="594.3" x2="468" y2="594.3"/>
+	<line clip-path="url(#SVGID_58_)" fill="none" stroke="#000000" x1="1" y1="7.5" x2="468" y2="7.5"/>
+</g>
+</svg>
