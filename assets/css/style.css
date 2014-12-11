@@ -1,0 +1,403 @@
+/*
+ * Author: Carlos Alvarez
+ * URL: http://alvarez.is
+ *
+ * Project Name: Landing Sumo - Theme 8
+ * URL: http://LandingSumo.com
+ * Version: 1.0
+ */
+
+/*	################################################################
+	1. GENERAL STRUCTURES
+################################################################# */
+
+/* Import fonts */
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+
+* { 
+	margin: 0;
+	padding: 0px;
+    font-family: 'Lato', sans-serif;
+} 
+body { 
+	background: #fff; 
+	margin: 0; 
+	color: #5a5a5a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+
+p,li { 
+	padding: 0; 
+	margin-bottom: 12px; 
+    font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 18px; 
+	line-height: 28px;
+	color: #666; 
+	margin-top: 10px; 
+}
+
+html,
+body {
+	height: 100%;
+}
+
+.alignleft { float: left; }
+.alignright { float: right; }
+.aligncenter {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	clear: both;
+}
+.centered {text-align: center}
+.mt {margin-top: 50px;}
+.mb {margin-bottom: 50px;}
+.mtb {margin-top: 50px; margin-bottom: 50px;}
+.mtb2 { margin-top: 100px; margin-bottom: 100px;}
+.ptb {padding-top: 80px; padding-bottom: 80px;}
+
+.clear {
+	clear: both;
+	display: block;
+	font-size: 0;
+	height: 0;
+	line-height: 0;
+	width:100%;
+}
+::-moz-selection  {
+	color: #fff;
+	text-shadow:none;
+	background:#2B2E31;
+}
+::selection {
+	color: #fff;
+	text-shadow:none;
+	background:#2B2E31;
+}
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+a { 
+	padding: 0;
+	margin: 0;
+	text-decoration: none; 
+	-webkit-transition: background-color .4s linear, color .4s linear;
+	-moz-transition: background-color .4s linear, color .4s linear;
+	-o-transition: background-color .4s linear, color .4s linear;
+	-ms-transition: background-color .4s linear, color .4s linear;
+	transition: background-color .4s linear, color .4s linear;
+	color: #1abc9c;
+}
+a:hover,
+a:focus {
+  text-decoration: none;
+  color:#696E74;
+}
+
+/* FORM CONFIGURATION */
+
+input {
+	font-size: 18px;
+	min-height: 40px;
+	border-radius: 2px;
+	line-height: 20px;
+	padding: 11px 30px 12px;
+	border: none;
+	margin-bottom: 10px;
+	background-color: #e9f0f2;
+	-webkit-transition: background-color 0.2s;
+	transition: background-color 0.2s;
+}
+
+.subscribe-input {
+	float: left;
+	width: 70%;
+	text-align: left;
+	margin-right: 2px;
+}
+
+.subscribe-submit {
+	right: 0;
+}
+
+.btn-green {
+	background: transparent;
+	color: white;
+	border: solid 1px #fff;
+	border-radius: 0px;
+}
+
+.btn-green:hover {
+	background: transparent;
+	border: solid 1px #fff;
+	color: white
+}
+
+/*LOGO*/
+.logo {
+    position: absolute;
+    width: 128px;
+    height: 50px;
+}
+
+.logoFooter {
+	position: absolute;
+	width: 128px;
+    height: 50px;
+}
+@media screen and (orientation:portrait) and (max-width: 320px) {
+	.logo {
+	    position: absolute;
+	    width: 128px;
+	    height: 50px;
+	    top: 5px;
+	}
+}
+
+
+/*.navbar-brand > img {
+    position: absolute;
+    top:14px;
+    left: 5px;
+}*/
+
+
+
+/* HEADER SECTION */
+#h {
+	background: url(../img/header.jpg) no-repeat center top;
+	padding-top: 200px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 700px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#h h1 {
+	font-weight: 900;
+	color: #27aae1;
+	font-size: 60px;
+}
+
+#h h2 {
+	color: #27aae1;
+}
+
+/* CALL TO ACTION SECTION */
+
+#cta {
+	padding-bottom: 15px;
+	padding-top: 15px;
+	background: #2f2f2f;
+}
+
+#cta p {
+	color: #f2f2f2;
+	font-size: 16px;
+}
+
+/* Flipper */
+#flipper {
+	padding-bottom: 50px;
+	padding-top: 50px;
+	color: #62655e;
+}
+
+#flipper i {
+	color: #D2527F;
+	margin-left: 5px;
+	font-size: 16px;
+}
+
+span.rotate {
+	color: #D2527F;
+}
+
+/* Benefits Section */
+
+#benefits {
+	background: #D2527F;;
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+
+.hyperlink {
+	color:white;
+	text-decoration: underline;
+}
+.hyperlink:hover {
+	text-decoration: underline;
+	color:white;
+}
+
+#benefits p, #benefits li  {
+	color:white;
+}
+
+#benefits h5 {
+	color: #f7ca18;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+#benefits hr {
+	border: 1px solid #f7ca18;
+	width: 100px;
+}
+
+.paragraph {
+	padding-top: 50px;
+}
+
+/*Design Types*/
+
+.icons-white-bg i {
+	font-size: 30px;
+}
+
+/* Red Section */
+
+#r {
+	background: #F62459;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	min-height: 700px;
+	color: white;
+}
+
+#r h1 {
+	font-size: 80px;
+	font-weight: 700;
+	text-align: center;
+}
+
+#r p {
+	color: white;
+	font-size: 16px;
+}
+
+/* Blue Section */
+
+#b {
+	background: #19B5FE;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	min-height: 700px;
+	color: white;
+}
+
+#b h1 {
+	font-size: 80px;
+	font-weight: 700;
+	text-align: center;
+}
+
+#b p {
+	color: white;
+	font-size: 16px;
+}
+
+/* YELLOW SECTION - TESTIMONIALS */
+#y {
+	padding-bottom: 50px;
+	padding-top: 50px;
+	min-height: 500px;
+	background: #f5d845;
+}
+
+#y hr {
+	border: 1px solid #5a5a5a;
+	width: 100px;
+}
+
+/*Companies*/
+#g {
+	background: #f2f2f2;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.sponsor img {
+	max-width: 140px;
+	max-height: 60px;
+	vertical-align: middle;
+}
+
+.sponsor .col-sm-2 {
+	height: 80px;
+	line-height: 80px;
+}
+
+/* FOOTER Section */
+
+/* COPYRIGHT */
+#copyright {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background: #010101;
+	color: #f2f2f2;
+}
+
+#copyright h4 {
+	font-weight: 700;
+}
+
+#copyright i {
+	font-size: 25px;
+	margin-right: 15px;
+}
+
+#copyright a {
+	color: #fff;
+}
+
+#copyright a:hover {
+	color: #27aae1;
+}
+
+.bio {
+	color:white;
+	padding-top: 15px;
+}
+
+.social {
+	list-style-type: none;
+}
+.logoFooter {
+	left: 7px;
+}
+/* Sub FOOTER */
+/* CREDIT */
+#c {
+	background: black;
+	padding: 20px;
+}
+
+#c p {
+	color: white;
+	font-size: 13px;
+}
+

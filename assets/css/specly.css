@@ -1,0 +1,225 @@
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+* { 
+    margin: 0;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
+body {
+    margin-top: 50px;
+}
+/*#sidebar.affix {
+    top: 60px;
+}*/
+
+
+li.navLinks {
+padding: 0;
+margin-bottom: 12px;
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+}
+.row {
+    margin-top: 50px;
+}
+
+.logo {
+    position: absolute;
+    width: 128px;
+    height: 50px;
+}
+@media screen and (orientation:portrait) and (max-width: 320px) {
+    .logo {
+        position: absolute;
+        width: 128px;
+        height: 50px;
+        top: 5px;
+    }
+}
+
+
+/* sidebar */
+.bs-docs-sidebar {
+    padding-left: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+/* all links */
+.bs-docs-sidebar .nav>li>a {
+    color: #999;
+    border-left: 2px solid transparent;
+    padding: 4px 20px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+/* nested links */
+.bs-docs-sidebar .nav .nav>li>a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+}
+
+/* active & hover links */
+.bs-docs-sidebar .nav>.active>a, 
+.bs-docs-sidebar .nav>li>a:hover, 
+.bs-docs-sidebar .nav>li>a:focus {
+    color: #563d7c;                 
+    text-decoration: none;          
+    background-color: transparent;  
+    border-left-color: #563d7c; 
+}
+/* all active links */
+.bs-docs-sidebar .nav>.active>a, 
+.bs-docs-sidebar .nav>.active:hover>a,
+.bs-docs-sidebar .nav>.active:focus>a {
+    font-weight: 700;
+}
+/* nested active links */
+.bs-docs-sidebar .nav .nav>.active>a, 
+.bs-docs-sidebar .nav .nav>.active:hover>a,
+.bs-docs-sidebar .nav .nav>.active:focus>a {
+    font-weight: 500;
+}
+
+/* hide inactive nested list */
+.bs-docs-sidebar .nav ul.nav {
+    display: none;           
+}
+/* show active nested list */
+.bs-docs-sidebar .nav>.active>ul.nav {
+    display: block;           
+}
+
+/*p {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}*/
+
+.group, .subgroup {
+    padding-top: 50px;
+    margin-top: -50px;
+}
+
+p,li { 
+    padding: 0; 
+    margin-bottom: 12px; 
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 14px; 
+    color: #333; 
+    margin-top: 10px; 
+}
+span {
+    color: grey;
+}
+
+.exampleHead {
+    border-top: solid 1px;
+    height: 50px;
+
+}
+ul li ul {
+    margin-left: 10px;
+    list-style-type: disc;
+}
+
+/*ul {
+    margin-left: 5px;
+}*/
+
+/*TABLE*/
+.definition {
+    padding-left: 40px;
+    border-left: solid 1px black;
+}
+
+.first {
+    color:#235F7F;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-right: 15px;
+}
+
+.fullpage {
+    font-size: 18px;
+}
+
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+tr {
+    border-top: 1px solid black;
+    padding-top: 5px;
+}
+
+/*End TABLE*/
+
+/*Examples*/
+.fig1, .fig2, .fig3, .fig4, .fig5, .fig6, .fig7, .fig8 {
+    width: 60%;
+    margin-left: 16%; 
+    vertical-align: center;
+}
+
+.tableImage {
+    width: 30%;
+    margin-left: 25%;
+}
+/*FOR MOBILE*/
+
+@media only screen and (max-device-width : 320px) and (orientation : portrait) {
+    .bs-docs-sidebar {
+        display: none;
+    }
+    .col-xs-9 {
+        margin-left: 10px;
+    }
+    .fig1, .fig2, .fig3, .fig4, .fig5, .fig6, .fig7, .fig8, .fig9 {
+        width: 70%;
+        heigth: 50%; 
+        vertical-align: center;
+    }
+    
+}
+
+@media only screen and (min-device-width : 320px) and (orientation : portrait) {
+    .bs-docs-sidebar {
+        display: none;
+    }
+    .col-xs-9 {
+        margin-left: 10px;
+        width: 93%;
+    }
+    .fig1, .fig2, .fig3, .fig4, .fig5, .fig6, .fig7, .fig8 {
+    width: 98%;
+    heigth: 50%;
+    margin-left: 0; 
+    vertical-align: center;
+    }
+
+  }
+@media only screen and (min-device-width : 568px) (orientation : landscape) {
+    .bs-docs-sidebar {
+        display: none;
+    }
+
+}
+
