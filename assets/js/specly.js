@@ -1,6 +1,6 @@
 $('body').scrollspy({
     target: '.bs-docs-sidebar',
-    offset: 60
+    offset: 40
 });
 // $("#sidebar").affix({
 //     offset: {
@@ -25,6 +25,6 @@ $( document ).ready(function() {
 $(".rotate").textrotator({
         animation: "flipUp",
         separator: ",",
-    speed: 2000
+    speed: 3000
     });
 });
