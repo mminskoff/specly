@@ -28,6 +28,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato', sans-serif;
 	font-weight: 300;
+	
 }
 
 
@@ -40,11 +41,13 @@ p,li {
 	line-height: 28px;
 	color: #666; 
 	margin-top: 10px; 
+	
 }
 
 html,
 body {
 	height: 100%;
+
 }
 
 .alignleft { float: left; }
@@ -157,13 +160,17 @@ input {
 	width: 128px;
     height: 50px;
 }
-@media screen and (orientation:portrait) and (max-width: 320px) {
-	.logo {
-	    position: absolute;
-	    width: 128px;
-	    height: 50px;
-	    top: 5px;
-	}
+@media screen and (orientation:portrait) and (min-width: 320px) and (max-width: 414px) {
+    .logo {
+        position: absolute;
+        width: 128px;
+        height: 50px;
+        top: 5px;
+    }
+}
+
+.benefitsList li {
+    margin-left: 20px;
 }
 
 
@@ -199,24 +206,41 @@ input {
 #h h1 {
 	font-weight: 900;
 	color: #27aae1;
-	font-size: 60px;
+	font-size: 50px;
 }
 
 #h h2 {
 	color: #27aae1;
+	font-size: 30px;
 }
 
+@media screen and (orientation:portrait) and (min-width: 320px) and (max-width: 414px) {
+   #h h1 {
+	font-weight: 900;
+	color: #27aae1;
+	font-size: 31px;
+}
+
+#h h2 {
+	color: #27aae1;
+	font-size: 20px;
+}
+}
 /* CALL TO ACTION SECTION */
 
 #cta {
 	padding-bottom: 15px;
 	padding-top: 15px;
 	background: #2f2f2f;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 
 #cta p {
 	color: #f2f2f2;
 	font-size: 16px;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 
 /* Flipper */
@@ -224,24 +248,35 @@ input {
 	padding-bottom: 50px;
 	padding-top: 50px;
 	color: #62655e;
+
 }
 
 #flipper i {
 	color: #D2527F;
 	margin-left: 5px;
 	font-size: 16px;
+	font-weight: bold;
 }
 
 span.rotate {
 	color: #D2527F;
+	font-weight: bold;
 }
+
+#flipper .rotate {
+	-webkit-animation-duration: 3s;
+}
+
 
 /* Benefits Section */
 
 #benefits {
 	background: #D2527F;;
-	padding-bottom: 80px;
-	padding-top: 80px;
+	padding-bottom: 30px;
+	padding-top: 0px;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
+
 }
 
 .hyperlink {
@@ -255,6 +290,8 @@ span.rotate {
 
 #benefits p, #benefits li  {
 	color:white;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 
 #benefits h5 {
@@ -274,30 +311,31 @@ span.rotate {
 
 /*Design Types*/
 
+.design {
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform-style: preserve-3d;
+}
+#design p {
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform-style: preserve-3d;
+
+}
+
+#design h2 {
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform-style: preserve-3d;
+
+}
 .icons-white-bg i {
 	font-size: 30px;
 }
 
 /* Red Section */
 
-#r {
-	background: #F62459;
-	padding-bottom: 50px;
-	padding-top: 50px;
-	min-height: 700px;
-	color: white;
-}
 
-#r h1 {
-	font-size: 80px;
-	font-weight: 700;
-	text-align: center;
-}
-
-#r p {
-	color: white;
-	font-size: 16px;
-}
 
 /* Blue Section */
 
@@ -322,9 +360,9 @@ span.rotate {
 
 /* YELLOW SECTION - TESTIMONIALS */
 #y {
-	padding-bottom: 50px;
-	padding-top: 50px;
-	min-height: 500px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	min-height: 360px;
 	background: #f5d845;
 }
 
@@ -338,6 +376,8 @@ span.rotate {
 	background: #f2f2f2;
 	padding-top: 60px;
 	padding-bottom: 60px;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 
 .sponsor img {
@@ -359,15 +399,21 @@ span.rotate {
 	padding-bottom: 25px;
 	background: #010101;
 	color: #f2f2f2;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 
 #copyright h4 {
 	font-weight: 700;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 
 #copyright i {
 	font-size: 25px;
 	margin-right: 15px;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 
 #copyright a {
@@ -389,15 +435,22 @@ span.rotate {
 .logoFooter {
 	left: 7px;
 }
+u {
+	text-decoration: underline;
+}
 /* Sub FOOTER */
 /* CREDIT */
 #c {
 	background: black;
 	padding: 20px;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 
 #c p {
 	color: white;
 	font-size: 13px;
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 }
 

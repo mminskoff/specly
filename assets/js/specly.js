@@ -1,6 +1,6 @@
 $('body').scrollspy({
     target: '.bs-docs-sidebar',
-    offset: 60
+    offset: 40
 });
 // $("#sidebar").affix({
 //     offset: {
@@ -10,7 +10,7 @@ $('body').scrollspy({
 
 
 var pendingState 
-$(window).on('activate.bs.scrollspy', function (e) {
+$( window ).on('activate.bs.scrollspy', function (e) {
 	if (!pendingState) {
 		pendingState = $("a[href^='#']", e.target).attr("href");
 		setTimeout(function() {
@@ -21,10 +21,9 @@ $(window).on('activate.bs.scrollspy', function (e) {
 });
 
 $( document ).ready(function() {
-    console.log( "ready!" );
-$(".rotate").textrotator({
-        animation: "flipUp",
+    $(".rotate ").Morphext({
+        animation: "flipInX",
         separator: ",",
-    speed: 2000
+        speed: 3500
     });
 });
