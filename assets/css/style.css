@@ -233,7 +233,11 @@ input {
 	padding-top: 15px;
 	background: #2f2f2f;
 	-webkit-perspective: 1000;
+<<<<<<< HEAD
 	-webkit-backface-visibility: hidden;
+=======
+-webkit-backface-visibility: hidden;
+>>>>>>> a88ec3dbad0cce45675884612a0914da07948134
 }
 
 #cta p {
@@ -248,6 +252,10 @@ input {
 	padding-bottom: 50px;
 	padding-top: 50px;
 	color: #62655e;
+<<<<<<< HEAD
+=======
+	z-index: 999999;
+>>>>>>> a88ec3dbad0cce45675884612a0914da07948134
 
 }
 
@@ -261,10 +269,13 @@ input {
 span.rotate {
 	color: #D2527F;
 	font-weight: bold;
+<<<<<<< HEAD
 }
 
 #flipper .rotate {
 	-webkit-animation-duration: 3s;
+=======
+>>>>>>> a88ec3dbad0cce45675884612a0914da07948134
 }
 
 
@@ -275,7 +286,11 @@ span.rotate {
 	padding-bottom: 30px;
 	padding-top: 0px;
 	-webkit-perspective: 1000;
+<<<<<<< HEAD
 	-webkit-backface-visibility: hidden;
+=======
+-webkit-backface-visibility: hidden;
+>>>>>>> a88ec3dbad0cce45675884612a0914da07948134
 
 }
 
@@ -310,7 +325,13 @@ span.rotate {
 }
 
 /*Design Types*/
+#design p {
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
 
+}
+
+<<<<<<< HEAD
 .design {
 	-webkit-perspective: 1000;
 	-webkit-backface-visibility: hidden;
@@ -327,6 +348,11 @@ span.rotate {
 	-webkit-perspective: 1000;
 	-webkit-backface-visibility: hidden;
 	-webkit-transform-style: preserve-3d;
+=======
+#design h2 {
+	-webkit-perspective: 1000;
+	-webkit-backface-visibility: hidden;
+>>>>>>> a88ec3dbad0cce45675884612a0914da07948134
 
 }
 .icons-white-bg i {

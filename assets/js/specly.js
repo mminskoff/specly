@@ -24,6 +24,10 @@ $( document ).ready(function() {
     $(".rotate ").Morphext({
         animation: "flipInX",
         separator: ",",
+<<<<<<< HEAD
         speed: 3500
+=======
+    speed: 3000
+>>>>>>> a88ec3dbad0cce45675884612a0914da07948134
     });
 });
